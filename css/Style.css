@@ -1,0 +1,32 @@
+h2 {
+  color:blueviolet
+}
+h3 {
+  color: rgb(228, 49, 4);
+  /* căn giữa */
+  text-align:center;
+  /* kiểu chữ */
+  font-style: italic;
+  /* font chữ */
+  font-family: Arial, Helvetica, sans-serif;
+  /* cỡ chữ */
+  font-size: 26px;
+  /* chuyển hoa thường */
+  text-transform: uppercase;
+  /* độ trong suốt */
+  opacity: 40%;
+  
+ 
+}
+/* background */
+body{
+  background-image: url(/img/hinhnen.jpg ) ;
+  
+}
+
+h5{
+  visibility: hidden;
+}
+h4{
+  display: none;
+}
